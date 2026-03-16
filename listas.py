@@ -18,3 +18,12 @@ print("após modificar:", frutas)
 frutas.remove("uva")
 ultimo = frutas.pop()
 print("Após remover  'uva' e pop():", frutas, "| ultima removida:", ultimo)
+
+# Tamanho ( quantidade de elememtos)
+print("Tamanho da lista 'frutas':", len(frutas))
+
+# Fatiamento (slicing)
+print("Fatiamento [0:2]:", frutas[0:2])
+
+# Verificar se um item está na lista
+print("Tem 'maçã'?", "maça" in frutas)
