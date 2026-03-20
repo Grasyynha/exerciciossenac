@@ -23,5 +23,18 @@ notas[posicao] = nova_nota
 notas.sort()
 print("Depois:", notas)
 
+#n1 float(input("Digite a primeira nota"))
+#n2 float(input("Digite a primeira nota"))
+#n3 float(input("Digite a primeira nota"))
+
+# notas = [n1,n2,n3]
+# print(notas)
+# mediaInicial = sum(notas)/len(notas)
+# menorNota  = min(notas)
+# indiceMenor = lista.index(menorNota)
+# novaNota = float(input("Digite a nova nota")
+# notas[indiceMenor] = novaNota
+# print(notas)
+# notas.sort
 
 

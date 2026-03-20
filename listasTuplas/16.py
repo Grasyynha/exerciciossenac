@@ -10,7 +10,6 @@ notas = (nota1, nota2, nota3)
 
 print("Tuplas:", notas)
 
-media = (nota1 + nota2 + nota3) / 3
-
+media = sum(notas) / len(notas)
 
 print("Média das tuplas: ", media)
