@@ -14,3 +14,5 @@ numeros = (n1, n2, n3, n4)
 print(numeros)
 lista_ordenada = sorted(numeros)
 print(lista_ordenada)
+print("Tipo da variavel: ", type(lista_ordenada))
+
