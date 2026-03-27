@@ -32,5 +32,3 @@ elif media < 6:
     print("Reprovado")
     
     
-# Crie um sistema: Usuário correto: admin  Senha: 1234 Se estiver 
-#certo → "Acesso permitido" Se não → "Acesso negado"   
